@@ -126,8 +126,8 @@ ODM_MANIFEST_SKUS += \
 ODM_MANIFEST_JOYEUSE_FILES := $(DEVICE_PATH)/configs/vintf/manifest_joyeuse.xml
 
 # Init
-#TARGET_INIT_VENDOR_LIB := //$(DEVICE_PATH):libinit_miatoll
-#TARGET_RECOVERY_DEVICE_MODULES := libinit_miatoll
+TARGET_INIT_VENDOR_LIB := //$(DEVICE_PATH):init_miatoll
+TARGET_RECOVERY_DEVICE_MODULES := init_miatoll
 
 # Media
 TARGET_USES_ION := true
