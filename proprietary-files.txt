@@ -128,6 +128,10 @@ vendor/lib64/soundfx/libqcomvisualizer.so
 vendor/lib64/soundfx/libqcomvoiceprocessing.so
 vendor/lib64/soundfx/libshoebox.so
 
+# AptX - from Pixel 4A 
+system_ext/lib64/libaptX_encoder.so|18e6569d5bf4e3b1124e9f95e1b1df4a
+system_ext/lib64/libaptXHD_encoder.so|59d896f337f570eaf54a480261f50ccc
+
 # Audio HAL
 vendor/lib/hw/audio.primary.atoll.so
 vendor/lib/libaudio_log_utils.so
