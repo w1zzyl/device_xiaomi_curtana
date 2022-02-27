@@ -659,7 +659,6 @@ vendor/lib/libgpudataproducer.so|ae6b33941cf3404911c84ca9027badf397e563d7
 vendor/lib/libgsl.so|79260d753fc6130d449ca706efc74688b26bfefc
 vendor/lib/libllvm-glnext.so|e2cc7963050bbb21782b47b42cfe23f54d848afc
 vendor/lib/libllvm-qcom.so|a22ead3b1d98004d378e44bded4bb341fe009ba7
-vendor/lib/libpvr.so|82723b3ea51940ae0d07206db949f7c98af7b7da
 vendor/lib64/egl/eglSubDriverAndroid.so|3f24763a497338de1979a7fcaee3659505efd838
 vendor/lib64/egl/libEGL_adreno.so|bc3f435342068f4164a9c54dfb5ac8644f488268
 vendor/lib64/egl/libGLESv1_CM_adreno.so|0a2a648ca2dcd887ea62860bbfa2ef397f01d42d
@@ -677,7 +676,6 @@ vendor/lib64/libgpudataproducer.so|e727bebda2f8360f6269272546431c990406b298
 vendor/lib64/libgsl.so|dac78bbe8d5dce2ab90d260c3c3d205151a958aa
 vendor/lib64/libllvm-glnext.so|1662a4a3abab3599208cc116135f8698e0c525da
 vendor/lib64/libllvm-qcom.so|6c19eabb6f1ed256bcc07cfd8596c48b968d4e68
-vendor/lib64/libpvr.so|0d293cfcac615cfadd41aeeba36a336869e51edc
 
 # Graphics (Vulkan) - from LA.UM.9.1.r1-11400.02-SMxxx0.QSSI12.0
 vendor/lib/hw/vulkan.adreno.so|e592c2ba93a78c9ad0765a81a66cffef25145125
