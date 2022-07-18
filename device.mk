@@ -508,5 +508,5 @@ PRODUCT_PACKAGES += \
     libnl
 
 # XiaomiParts
-PRODUCT_PACKAGES += \
-    XiaomiParts
+# PRODUCT_PACKAGES += \
+  # XiaomiParts

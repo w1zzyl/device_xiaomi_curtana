@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lighthouse_curtana.mk
+    $(LOCAL_DIR)/aosp_curtana.mk
 
 COMMON_LUNCH_CHOICES := \
-    lighthouse_curtana-user \
-    lighthouse_curtana-userdebug \
-    lighthouse_curtana-eng
+    aosp_curtana-user \
+    aosp_curtana-userdebug \
+    aosp_curtana-eng
