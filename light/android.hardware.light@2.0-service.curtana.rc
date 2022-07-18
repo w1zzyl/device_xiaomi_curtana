@@ -8,7 +8,7 @@ on boot
     chmod 0644 /sys/class/leds/white/brightness
     chmod 0644 /sys/class/leds/white/breath
 
-service vendor.light-hal-2-0 /vendor/bin/hw/android.hardware.light@2.0-service.miatoll
+service vendor.light-hal-2-0 /vendor/bin/hw/android.hardware.light@2.0-service.curtana
     interface android.hardware.light@2.0::ILight default
     class hal
     user system

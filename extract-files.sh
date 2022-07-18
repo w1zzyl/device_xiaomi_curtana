@@ -8,7 +8,7 @@
 
 set -e
 
-DEVICE=miatoll
+DEVICE=curtana
 VENDOR=xiaomi
 
 DEVICE_BRINGUP_YEAR=2020

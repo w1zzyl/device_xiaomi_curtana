@@ -14,10 +14,10 @@
 // limitations under the License.
 
 cc_binary {
-    name: "android.hardware.biometrics.fingerprint@2.1-service.miatoll",
+    name: "android.hardware.biometrics.fingerprint@2.1-service.curtana",
     relative_install_path: "hw",
     defaults: ["hidl_defaults"],
-    init_rc: ["android.hardware.biometrics.fingerprint@2.1-service.miatoll.rc"],
+    init_rc: ["android.hardware.biometrics.fingerprint@2.1-service.curtana.rc"],
     srcs: ["service.cpp", "BiometricsFingerprint.cpp"],
     shared_libs: [
         "libbase",

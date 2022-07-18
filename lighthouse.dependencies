@@ -13,21 +13,5 @@
     "remote": "github",
     "repository": "arrowos-devices/android_hardware_xiaomi",
     "target_path": "hardware/xiaomi"
-  },
-  {
-    "remote": "github",
-    "repository": "kdrag0n/proton-clang",
-    "target_path": "prebuilts/clang/host/linux-x86/clang-proton",
-    "branch": "master"
-  },
-  {
-    "remote": "github",
-    "repository": "lighthouse-os-devices/android_kernel_xiaomi_sm6250",
-    "target_path": "kernel/xiaomi/sm6250"
-  },
-  {
-    "remote": "github",
-    "repository": "Stealth1226/android_vendor_xiaomi_miatoll",
-    "target_path": "vendor/xiaomi/miatoll"
   }
 ]

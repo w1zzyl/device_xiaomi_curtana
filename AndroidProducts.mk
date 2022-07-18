@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lighthouse_miatoll.mk
+    $(LOCAL_DIR)/lighthouse_curtana.mk
 
 COMMON_LUNCH_CHOICES := \
-    lighthouse_miatoll-user \
-    lighthouse_miatoll-userdebug \
-    lighthouse_miatoll-eng
+    lighthouse_curtana-user \
+    lighthouse_curtana-userdebug \
+    lighthouse_curtana-eng
