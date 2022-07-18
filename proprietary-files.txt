@@ -128,10 +128,6 @@ vendor/lib64/soundfx/libqcomvisualizer.so
 vendor/lib64/soundfx/libqcomvoiceprocessing.so
 vendor/lib64/soundfx/libshoebox.so
 
-# AptX - from Pixel 4A
-system_ext/lib64/libaptXHD_encoder.so|59d896f337f570eaf54a480261f50ccc
-system_ext/lib64/libaptX_encoder.so|18e6569d5bf4e3b1124e9f95e1b1df4a
-
 # Audio HAL
 vendor/lib/hw/audio.primary.atoll.so
 vendor/lib/libaudio_log_utils.so
@@ -376,8 +372,6 @@ vendor/lib64/libvideofilter_only.so
 vendor/lib64/libvidhance.so
 vendor/lib64/libxmi_high_dynamic_range.so
 vendor/lib64/libxml2_vendor.so
-vendor/lib64/mibokeh_712_opencl.bin
-vendor/lib64/mibokeh_712_parameter.bin
 
 # Camera (Megvii)
 vendor/etc/camera/megviifacepp_0_5_2_model
@@ -514,11 +508,6 @@ vendor/lib64/libcvp.so
 vendor/lib64/libcvp_common.so
 vendor/lib64/libcvp_stub.so
 vendor/lib64/vendor.qti.hardware.cvp@1.0.so
-
-# Dirac
-vendor/etc/diracmobile.config
-vendor/lib/soundfx/libdirac.so
-vendor/lib/libDiracAPI_SHARED.so
 
 # DPM
 system_ext/bin/dpmd
