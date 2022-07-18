@@ -18,7 +18,6 @@ static const variant_info_t curtanain_info = {
     .build_description = "curtana-user 11 RKQ1.200826.002 V12.5.2.0.RJWINXM release-keys",
     .build_fingerprint = "Redmi/curtana/curtana:11/RKQ1.200826.002/V12.5.2.0.RJWINXM:user/release-keys",
 
-    .nfc = false,
 };
 
 static const variant_info_t curtana_info = {
@@ -30,7 +29,6 @@ static const variant_info_t curtana_info = {
     .build_description = "curtana_global-user 11 RKQ1.200826.002 V12.5.1.0.RJWMIXM release-keys",
     .build_fingerprint = "Redmi/curtana_global/curtana:11/RKQ1.200826.002/V12.5.1.0.RJWMIXM:user/release-keys",
 
-    .nfc = false,
 };
 
 static const std::vector<variant_info_t> variants = {
